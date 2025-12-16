@@ -73,7 +73,6 @@ Perfume_Scraper/
 │
 ├── Perfume_Scraper.py # Main scraper script
 ├── README.md
-├── requirements.txt
 ```
 
 ---
@@ -107,13 +106,7 @@ git clone https://github.com/SamiraSiavash/Perfume_Scraper.git
 cd Perfume_Scraper
 ```
 
-2. Install required packages:
-
-```
-pip install -r requirements.txt
-```
-
-3. Run the scraper:
+2. Run the scraper:
 
 ```
 python Perfume_Scraper.py
