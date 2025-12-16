@@ -73,6 +73,7 @@ Perfume_Scraper/
 │
 ├── Perfume_Scraper.py # Main scraper script
 ├── README.md
+├── requirements.txt
 ```
 
 ---
